@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#ascii-logo {
+	font-family: monospace;
+    text-align: center;
+    white-space: pre;
+}
