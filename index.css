@@ -1,16 +1,17 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
 }
 
 #ascii-logo {
 	font-family: monospace;
     text-align: center;
     white-space: pre;
+    color: white;
 }
 
 #title-logo {
 	font-family: monospace;
     text-align: center;
-    white-space: pre;    	
+    white-space: pre;    
+    color: white;
 }
